@@ -13,3 +13,10 @@ The Scoop allows users to:
 - Create, edit, and delete comments on articles
 - Upvote and downvote comments
 - View all of a user's articles and comments
+
+## Screenshots
+![1](images/1.png)
+<br> 
+![2](images/2.png)
+<br> 
+![3](images/3.png)
